@@ -10,6 +10,7 @@ git rm	"文件名"      | 从缓存区中移除
 git mv "文件名" 	| 重命名文件 
 git commit	-m "第一次版本提交"	   |  将缓存区内容添加到仓库中，使用 -m 选项以在命令行中提供提交注释。
 git remote		        | 查看当前配置有哪些远程仓库
-git fetch		        | 从远程仓库下载新分支与数据
+git fetch [alias]	        | 从远程仓库下载新分支与数据
+git merge [alias]/[branch]		        | 将服务器上的任何更新合并到你的当前分支
 git push [alias] [branch]	        | 将你的 [branch] 分支推送成为 [alias] 远程仓库上的 [branch] 分支
 git pull		        | 从远端仓库提取数据并尝试合并到当前分支
