@@ -17,7 +17,7 @@ adb devices 			 | 查看连接到计算机上的设备
 adb  get-serialno			 |  获取连接到电脑上设备的序列号，当前只能连接一台设备才能获取得到
 adb  reboot 			 |  重启连接到电脑上的设备
 adb reboot bootloader/recovery			 | 重启设备进入到 fastboot 模式或 recovery 模式，通常在刷机的时候用到
-adb [-d|-e|-s<serialNumber>] command  | 发送指定命令给指定设备，其中serialNuber是设备号
+adb [-d/-e/-s<serialNumber>] command  | 发送指定命令给指定设备，其中serialNuber是设备号
 
 
 ### 获取设备硬件信息
