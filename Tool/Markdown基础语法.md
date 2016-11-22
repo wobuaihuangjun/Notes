@@ -163,8 +163,8 @@ Markdown支持段内换行，如果你想进行段落内换行可以在上一行
     <td><a href="https://github.com/wobuaihuangjun" target="_blank">我的主页</a></td>
   </tr>
   <tr class="alternate">
-    <td>![我的主页](http://ww3.sinaimg.cn/large/6472cb03gw1fa11abnabcj20dc0dcgm1.jpg)</td>
-    <td><img src="http://ww3.sinaimg.cn/large/6472cb03gw1fa11abnabcj20dc0dcgm1.jpg" alt="我的主页" /></td>
+    <td>![头像](http://ww3.sinaimg.cn/large/6472cb03gw1fa11abnabcj20dc0dcgm1.jpg)</td>
+    <td><img src="http://ww3.sinaimg.cn/large/6472cb03gw1fa11abnabcj20dc0dcgm1.jpg" alt="头像" /></td>
   </tr>
 </table>
 
