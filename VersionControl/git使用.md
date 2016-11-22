@@ -1,6 +1,6 @@
 
 ## [Git服务器配置](http://weibo.com/GcsSloop)
-## [官网教程]（https://git-scm.com/book/zh/v2）
+## [官网教程](https://git-scm.com/book/zh/v2)
 
 ## Git常用命令
 
