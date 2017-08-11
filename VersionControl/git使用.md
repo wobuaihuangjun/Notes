@@ -17,7 +17,7 @@ git mv "文件名" 	| 重命名文件
 git branch		        | 列出分支
 git branch [branchname]		        | 手动创建一个分支
 git checkout [branchname]		        | 切换分支命令。当你切换分支的时候，Git 会用该分支的最后提交的快照替换你的工作目录的内容， 所以多个分支不需要多个目录。
-git merge [branchname]		        | 合并分支到主分支。合并冲突就出现了，接下来我们需要手动去修改它。用 git add 告诉 Git 文件冲突已经解决
+git merge [branchname]		        | 合并指定分支到当前分支。合并冲突就出现了，接下来我们需要手动去修改它。用 git add 告诉 Git 文件冲突已经解决
 git branch -d [branchname]		        | 删除分支
 ---------	| ---------------
 git remote		        | 查看当前配置有哪些远程仓库
